@@ -14,7 +14,7 @@ Goal is to analyze the purchase_data.csv of a game called Heroes of Pymoli and g
 
 ## Skills
 
-pandas library | jupyter notebook | bins
+pandas library | jupyter notebook | bins | big data
 
 ## Conclusions
 
